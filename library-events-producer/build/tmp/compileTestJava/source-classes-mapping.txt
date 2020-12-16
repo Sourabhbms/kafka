@@ -1,0 +1,2 @@
+com/learnkafka/libraryeventsproducer/LibraryEventsProducerApplicationTests.java
+ com.learnkafka.libraryeventsproducer.LibraryEventsProducerApplicationTests
